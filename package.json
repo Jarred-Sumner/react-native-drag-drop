@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/deanmcpherson/react-native-drag-drop#readme",
   "dependencies": {
+    "create-react-context": "^0.2.1",
     "react-native-gesture-handler": "^1.0.0-alpha.42"
   }
 }
