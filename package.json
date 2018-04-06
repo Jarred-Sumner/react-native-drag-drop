@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/deanmcpherson/react-native-drag-drop/issues"
   },
-  "homepage": "https://github.com/deanmcpherson/react-native-drag-drop#readme"
+  "homepage": "https://github.com/deanmcpherson/react-native-drag-drop#readme",
+  "dependencies": {
+    "react-native-gesture-handler": "^1.0.0-alpha.42"
+  }
 }
